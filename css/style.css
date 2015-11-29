@@ -496,15 +496,10 @@ nav
 	line-height: 35px;
 }
 
-.text-logo
+#nav-logo
 {
-	display: border-box;
 	font-family: 'Lobster Two',cursive;
-	font-size: 2.4em;
-	color: #079A8C;
-	height: 80px;
-	line-height: 80px;
-	padding: 0 20px;
+	font-size: 2em;
 }
 
 /* Transitions

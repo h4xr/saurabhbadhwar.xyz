@@ -12,15 +12,12 @@
                 <li class="nav-link transition">Home</li>
                 <li class="nav-link transition">About</li>
                 <li class="nav-link transition">Writing</li>
+                <li class="nav-link transition" id="nav-logo">Saurabh Badhwar</li>
+                <li class="nav-link transition">Resume</li>
                 <li class="nav-link transition">Work</li>
                 <li class="nav-link transition">Contact</li>
             </ul>
         </div>
     </nav>
-    <header>
-        <div id="logo" class="text-logo">
-            Saurabh Badhwar
-        </div>
-    </header>
 </body>
 </html>
