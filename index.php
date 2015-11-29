@@ -3,7 +3,8 @@
 <head>
     <title>Saurabh Badhwar's Website</title>
     <link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href="css/animate.css" rel="stylesheet" type="text/css">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
     <nav>
