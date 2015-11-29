@@ -25,6 +25,7 @@
         &nbsp;
         <div class="sayhi">Hi!</div>
         <div class="intro">I'm <span class="name transition">Saurabh Badhwar</span> <br> <span class="skill">I build <span class="skill-set transition">Websites</span> and <span class="skill-set transition">Softwares</span></span></div>
+        <div class="know-more transition">&#8642;</div>
     </div>
 </body>
 </html>
