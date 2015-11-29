@@ -3,6 +3,7 @@
 <head>
     <title>Saurabh Badhwar's Website</title>
     <link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Amaranth' rel='stylesheet' type='text/css'>
     <link href="css/animate.css" rel="stylesheet" type="text/css">
     <link href="css/style.css" rel="stylesheet" type="text/css">
 </head>
@@ -20,5 +21,10 @@
             </ul>
         </div>
     </nav>
+    <div class="container" id="home-container">
+        &nbsp;
+        <div class="sayhi">Hi!</div>
+        <div class="intro">I'm <span class="name transition">Saurabh Badhwar</span> <br> <span class="skill">I build <span class="skill-set transition">Websites</span> and <span class="skill-set transition">Softwares</span></span></div>
+    </div>
 </body>
 </html>

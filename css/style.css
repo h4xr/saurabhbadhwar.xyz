@@ -1,5 +1,11 @@
 /*Font Import */
 @import url(http://fonts.googleapis.com/css?family=Lobster+Two:700);
+
+@font-face {
+	font-family : "League Gothic";
+	src         : url("../fonts/leaguegothic-regular-webfont.ttf");
+}
+
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 
 /**
@@ -446,6 +452,8 @@ header
 
 nav
 {
+	position: fixed;
+	top: 0;
 	width: 100%;
 	height: 40px;
 	background: #212323;
@@ -503,6 +511,59 @@ nav
 	font-size: 2em;
 }
 
+/* Container
+=============================================*/
+div.container
+{
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+div.sayhi
+{
+	text-align: center;
+	margin: 100px auto 0 auto;
+	font-size: 6em;
+	color: white;
+	font-family: "League Gothic",sans-serif;
+}
+
+div.intro
+{
+	text-align: center;
+	color: white;
+	font-size: 3em;
+	font-family: 'Amaranth',sans-serif;
+}
+
+span.name
+{
+	color: #009688;
+	font-size: 1.4em;
+	font-family: 'Lobster Two',sans-serif;
+	letter-spacing: 2px;
+}
+
+span.name:hover
+{
+	border-bottom: 4px dotted #009688;
+}
+
+span.skill
+{
+	font-size: 0.8em;
+}
+
+span.skill-set
+{
+	color: #009688;
+}
+
+span.skill-set:hover
+{
+	border-bottom: 1px dotted #009688;
+}
 /* Transitions
 ==============================================*/
 .transition
