@@ -11,13 +11,13 @@
     <nav>
         <div id="menu" class="primary-nav">
             <ul>
-                <li class="nav-link transition">Home</li>
-                <li class="nav-link transition">About</li>
-                <li class="nav-link transition">Writing</li>
+                <li class="nav-link transition"><a href="#home-container">Home</a></li>
+                <li class="nav-link transition"><a href="#about-container">About</a></li>
+                <li class="nav-link transition"><a href="#">Writing</a></li>
                 <li class="nav-link transition" id="nav-logo">Saurabh Badhwar</li>
-                <li class="nav-link transition">Resume</li>
-                <li class="nav-link transition">Work</li>
-                <li class="nav-link transition">Contact</li>
+                <li class="nav-link transition"><a href="#">Resume</a></li>
+                <li class="nav-link transition"><a href="#">Work</a></li>
+                <li class="nav-link transition"><a href="#">Contact</a></li>
             </ul>
         </div>
     </nav>
@@ -25,7 +25,19 @@
         &nbsp;
         <div class="sayhi">Hi!</div>
         <div class="intro">I'm <span class="name transition">Saurabh Badhwar</span> <br> <span class="skill">I build <span class="skill-set transition">Websites</span> and <span class="skill-set transition">Softwares</span></span></div>
-        <div class="know-more transition">&#8642;</div>
+        <div class="know-more transition"><a href="#about-container">&#8642;</a></div>
+    </div>
+    <div class="container" id="about-container">
+        &nbsp;
+        <div id="know-more-container" class="inner-container">
+            <div id="author">
+                <img src="images/my.jpg">
+                <span class="name">Saurabh Badhwar</span>
+            </div>
+            <div id="author-bio">
+
+            </div>
+        </div>
     </div>
 </body>
 </html>
