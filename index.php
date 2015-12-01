@@ -40,4 +40,7 @@
         </div>
     </div>
 </body>
+<script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="js/smoothscroll.js"></script>
+<script type="text/javascript" src="js/custom.js"></script>
 </html>
