@@ -35,7 +35,11 @@
                 <span class="name">Saurabh Badhwar</span>
             </div>
             <div id="author-bio">
-
+                I am a student currently pursuing Bachelors in Technology in Computer Science Engineering, I
+                work on backend development. I have deep interest in intelligent systems and Internet of Things
+                field. I love to take challenging and innovative projects where I can develop new solutions to
+                the problems. I am a big supporter of Open Source Technologies and try my best to use and contribute
+                to them.
             </div>
         </div>
     </div>

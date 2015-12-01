@@ -1,6 +1,6 @@
 /*Font Import */
 @import url(http://fonts.googleapis.com/css?family=Lobster+Two:700);
-
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 @font-face {
 	font-family : "League Gothic";
 	src         : url("../fonts/leaguegothic-regular-webfont.ttf");
@@ -625,8 +625,8 @@ div#about-container
 
 #author img
 {
-	width: 100px;
-	height: 100px;
+	width: 150px;
+	height: 150px;
 	border-radius: 50%;
 }
 
@@ -635,6 +635,7 @@ div#about-container
 	display: block;
 	clear: both;
 	border-bottom: 0;
+	font-size: 2em;
 }
 
 #author-bio
@@ -642,6 +643,10 @@ div#about-container
 	padding: 10px;
 	width: 90%;
 	margin: 10px auto;
+	font-family: 'Open Sans',sans-serif;
+	font-size: 1.2em;
+	color: #eeeeee;
+	text-align: justify;
 }
 /* Transitions
 ==============================================*/
